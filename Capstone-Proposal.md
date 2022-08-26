@@ -24,9 +24,11 @@
 * A map where artwork is on display/for sale and upcoming events
 * Upload photos of art pieces (admin)
 * Upload photos and reviews (user)
+* Deploy Live Site to Custom Domain
 ---
 ## What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 * GMaps API
 * AWS S3
 * Node.js
 * TBD Need to do more research
+* Netlify(hosting service)
