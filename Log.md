@@ -9,10 +9,11 @@
 
 #### ---Saturday August 27th---
 * _11:00am to 11:30am Read through documentation and fiddled with code to get a better understanding_ https://developers.google.com/maps/documentation/javascript/custom-markers#maps_custom_markers-html | _30 mins_
-* _11:30 to 12:pm watched video_ https://www.youtube.com/watch?v=YeFzkC2awTM&list=PLutVOxa7AC5SXouaakORosnHEU6IHYDhr&index=4&t=36s _tutorial on vanilla JS shopping cart | 45 mins_
+* _11:30 to 12:15pm watched video_ https://www.youtube.com/watch?v=YeFzkC2awTM&list=PLutVOxa7AC5SXouaakORosnHEU6IHYDhr&index=4&t=36s _tutorial on vanilla JS shopping cart | 45 mins_
+* _12:15pm to 12:50pm watched videos_ https://www.youtube.com/watch?v=B20Getj_Zk4&list=PLutVOxa7AC5SXouaakORosnHEU6IHYDhr&index=5&t=583s _&_ https://www.youtube.com/watch?v=PoTGs38DR9E&list=PLutVOxa7AC5SXouaakORosnHEU6IHYDhr&index=6 _more information on JS shopping cart | 35 mins_
 
 
 
 
 
-* _Total Time = 3hrs 45mins_
+* _Total Time = 4hrs 20mins_
