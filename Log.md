@@ -17,4 +17,4 @@
 
 
 
-* _Total Time = 4hrs 20mins_
+* _Total Time = 5hrs 35mins_
