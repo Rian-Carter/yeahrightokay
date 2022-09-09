@@ -12,7 +12,8 @@
 * _11:30 to 12:15pm watched video_ https://www.youtube.com/watch?v=YeFzkC2awTM&list=PLutVOxa7AC5SXouaakORosnHEU6IHYDhr&index=4&t=36s _tutorial on vanilla JS shopping cart | 45 mins_
 * _12:15pm to 12:50pm watched videos_ https://www.youtube.com/watch?v=B20Getj_Zk4&list=PLutVOxa7AC5SXouaakORosnHEU6IHYDhr&index=5&t=583s _&_ https://www.youtube.com/watch?v=PoTGs38DR9E&list=PLutVOxa7AC5SXouaakORosnHEU6IHYDhr&index=6 _more information on JS shopping cart | 35 mins_
 
-
+#### ---Friday September 9th---
+* _10:30am to 11:45am Begin building out index.html_ | _1hr 15mins_
 
 
 
