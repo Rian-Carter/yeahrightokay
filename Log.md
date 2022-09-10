@@ -15,6 +15,10 @@
 #### ---Friday September 9th---
 * _10:30am to 11:45am Begin building out index.html_ | _1hr 15mins_
 
+#### ---Saturday September 10th---
+* _10:45am to 1:00pm Re-vamped index.html & started styling_ | _2hr 15mins_
+* _1:00pm to 1:11pm watched video_ https://www.youtube.com/watch?v=mxHoPYFsTuk _to get better understanding of parallax scrolling, may incorporate into project_ | _11mins_
 
 
-* _Total Time = 5hrs 35mins_
+
+* _Total Time = 8hrs 1mins_
