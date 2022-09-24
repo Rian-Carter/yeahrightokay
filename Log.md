@@ -19,6 +19,9 @@
 * _10:45am to 1:00pm Re-vamped index.html & started styling_ | _2hr 15mins_
 * _1:00pm to 1:11pm watched video_ https://www.youtube.com/watch?v=mxHoPYFsTuk _to get better understanding of parallax scrolling, may incorporate into project_ | _11mins_
 
+#### ---Saturday September 24th---
+* _10:00am to 12:15pm incorporate fade effect, axe "loading effect", add in script.js, styling, etc._ | _2hrs 15mins_
+
 
 
 * _Total Time = 8hrs 1mins_
