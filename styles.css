@@ -17,15 +17,15 @@ html {
 }
 ::-webkit-scrollbar-track {
     /* background: #f1f1f1; */
-    background: #fb02ef;
+    background: #828282;
 }
 ::-webkit-scrollbar-thumb {
     /* background: #888; */
-    background: rgb(30, 60, 251);
+    background: rgb(122, 139, 248);
 }
 ::-webkit-scrollbar-thumb:hover {
     /* background: #555; */
-    background: #fff;
+    background: rgb(255, 188, 188);
 }
 
 
@@ -200,6 +200,8 @@ section .title::after {
 /* home section styling */
 .home {
     display: flex;
+    filter: blur(5px);
+    -webkit-filter: blur(5px);
     background: url("img/holdYourHeartUp.jpeg") no-repeat center;
     height: 100vh;
     color: #fff;
@@ -421,9 +423,9 @@ a:active {
     font-weight: 100;
     font-size: 5.5rem;
     color: rgb(224, 77, 238);
-} */
+}
 
-/* span {
+span {
     position: relative;
     top: 0.5em;  
     display: inline-block;
