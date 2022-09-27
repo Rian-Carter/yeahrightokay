@@ -22,6 +22,8 @@
 #### ---Saturday September 24th---
 * _10:00am to 12:15pm incorporate fade effect, axe "loading effect", add in script.js, styling, etc._ | _2hrs 15mins_
 
+#### ---Monday September 26th---
+* _5:30pm to 9:30pm "started over" in a different repo. didn't like the direction things were headed and decided to go a different route. Hopefully this works out._ | _4hrs_
 
 
-* _Total Time = 8hrs 1mins_
+* _Total Time = 14hrs 16mins_
