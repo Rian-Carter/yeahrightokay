@@ -28,6 +28,12 @@
 * _5:30pm to 9:30pm "started over" in a different repo. didn't like the direction things were headed and decided to go a different route. Hopefully this works out._ | _4hrs_
 
 #### ---Tuesday September 27th---
-* _6:00pm to 9? continued working on project in new repo. Built out HTML & CSS further._ | _?hrs_
+* _6:00pm to 9:00pm continued working on project in new repo. Built out HTML & CSS further._ | _3hrs_
 
-* _Total Time = 14hrs 16mins_
+#### ---Monday October 3rd---
+* _3:00pm to 4:00pm started adding functionality to contact form._ | _1hrs_
+
+#### ---Tuesday October 4th---
+* _6:00pm to 9:00pm finished adding functionality to contact form, may go back and build form using PHP. Linked social buttons to social media._ | _3hrs_
+
+* _Total Time = 21hrs 26mins_
