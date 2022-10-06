@@ -36,4 +36,7 @@
 #### ---Tuesday October 4th---
 * _6:00pm to 9:00pm finished adding functionality to contact form, may go back and build form using PHP. Linked social buttons to social media._ | _3hrs_
 
-* _Total Time = 21hrs 26mins_
+### ---Wednesday October 5th---
+* _6:00pm to 10:00pm finished contact form started building out image carousel_ | _4hrs_
+
+* _Total Time = 25hrs 26mins_
