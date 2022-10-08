@@ -42,4 +42,7 @@
 #### ---Friday October 7th---
 * _3:00pm to 11:30pm finished image carousel, worked on getting contact form to clear(unsuccessful, can get form to clear, but then email won't be sent and vice versa) / started implementing javascript google map api, map rendering (custom styling added) slow burn, but progress being made...completed styling. Moved onto custom markers, completed custom markers, edited some styling, fixed indentation_ | _8hrs 30mins_
 
-* _Total Time = 33hrs 56mins_
+#### ---Saturday October 8th---
+* _10:00am to 4:15pm updated .gitignore, moved google api script out of index.html, styling, indentation, spacing, fixed footer links, removed original google map, added animation to "check back soon", added in skip links for ADA compliance and styled skip links. Added in auto scroll up/down button primarily for mobile. Added a purchase section. Linked jQuery to project. Deployed project to GH Pages, etc..._ | _6hrs 15mins_
+
+* _Total Time = 40hrs 11mins_
