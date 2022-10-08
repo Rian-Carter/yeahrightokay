@@ -9,7 +9,7 @@
 * Artist Bio
 * Photo Gallery
 * Contact
-* Collaborations
+* Collaborations (*not needed*)
 ---
 ## What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to *your* track, and *your* language) will you use to create this MVP? List them all here. Be specific.
 * HTML
