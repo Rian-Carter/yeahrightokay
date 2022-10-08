@@ -36,7 +36,10 @@
 #### ---Tuesday October 4th---
 * _6:00pm to 9:00pm finished adding functionality to contact form, may go back and build form using PHP. Linked social buttons to social media._ | _3hrs_
 
-### ---Wednesday October 5th---
+#### ---Wednesday October 5th---
 * _6:00pm to 10:00pm finished contact form started building out image carousel_ | _4hrs_
 
-* _Total Time = 25hrs 26mins_
+#### ---Friday October 7th---
+* _3:00pm to 11:30pm finished image carousel, worked on getting contact form to clear(unsuccessful, can get form to clear, but then email won't be sent and vice versa) / started implementing javascript google map api, map rendering (custom styling added) slow burn, but progress being made...completed styling. Moved onto custom markers, completed custom markers, edited some styling, fixed indentation_ | _8hrs 30mins_
+
+* _Total Time = 33hrs 56mins_
